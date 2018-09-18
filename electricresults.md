@@ -11,19 +11,19 @@ What happended when all of your values started as true?
 
 ## All false
 What happended when all of your values started as false?
-1.  True
-2.  False
-3.  True
-4.  True
-5.  False
-
-## First two true, last two false
-
-1.  True
+1.  False
 2.  True
 3.  False
 4.  False
 5.  True
+
+## First two true, last two false
+
+1.  True
+2.  false
+3.  True
+4.  True
+5.  False
 
 ## First two false, last two true
 
@@ -43,8 +43,8 @@ What happended when all of your values started as false?
 
 ## True, false, false, true
 
-1. True
-2. False
+1. False
+2. True
 3. False
-4.  True
-5.  False
+4.  False
+5.  True
